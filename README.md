@@ -6,7 +6,7 @@
 
 Актуальная версия всегда доступна по адресу 
 ```bash
-wget -O https://github.com/Iambabyninja/ru_gov_zapret/releases/latest/download/zapret.dat
+wget -O https://github.com/sm1ky/ru_gov_zapret/releases/latest/download/zapret.dat
 ```
 
 Имеет две ветки:
