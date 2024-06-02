@@ -1,8 +1,6 @@
 name: zapret .dat
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
+
   push:
     branches:
       - main
