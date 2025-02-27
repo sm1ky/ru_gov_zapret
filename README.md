@@ -21,7 +21,7 @@ mkdir -p /var/lib/marzban/assets/
 ```
 Скачиваем 
 ```bash
-wget -O /var/lib/marzban/assets/zapret.dat https://github.com/Iambabyninja/ru_gov_zapret/releases/latest/download/zapret.dat
+wget -O /var/lib/marzban/assets/zapret.dat https://github.com/sm1ky/ru_gov_zapret/releases/latest/download/zapret.dat
 ```
 Устанавливаем значение в .env файле
 
