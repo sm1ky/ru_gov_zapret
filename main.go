@@ -158,7 +158,7 @@ func parseAttribute(attr string) (*router.Domain_Attribute, error) {
 
 func parseEntry(line string) (Entry, error) {
 	line = strings.TrimSpace(line)
-	parts := strings.Split(line, " ")
+	parts := strings.Fields(line)
 
 	var entry Entry
 	if len(parts) == 0 {
